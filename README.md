@@ -26,7 +26,7 @@ Cada writeup presente neste repositório não se limita a obter a *flag*, mas se
 <summary><b>2026 (Clique para expandir)</b></summary>
 
 ### ☀️ Sunshine CTF 2026
-* **[Tomorrow Mart (Web / GraphQL)](./2026/Sunshine-CTF/Web/Tomorrow-Mart)**
+* **[Tomorrow Mart (Web / GraphQL)](./2026/Sunshine-CTF/Web/TomorrowMart)**
   * **Falha:** Introspecção exposta, `vendorTerminalSync` desprotegido e falha de lógica em cupons.
   * **Defesa:** Desativação de `__schema` em produção e validação server-side.
 * **[Kidding (Web / JWT)](./2026/Sunshine-CTF/Web/Kidding)**
